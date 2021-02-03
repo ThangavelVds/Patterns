@@ -33,3 +33,19 @@
   * * * * *
     * * *
       *
+      
+5 . square or rectangle pattern
+
+(i) if input is 5 5
+* * * * * 
+*       * 
+*       * 
+*       * 
+* * * * *
+
+(ii) if input is 6 5
+* * * * * * 
+*         * 
+*         * 
+*         * 
+* * * * * *
