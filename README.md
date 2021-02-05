@@ -49,3 +49,19 @@
 *         * 
 *         * 
 * * * * * *
+
+6 . Zig - zag triangle
+
+Enter lines :4
+1 
+2 3 
+6 5 4 
+7 8 9 10
+
+7 . step pattern 1
+
+Enter number of lines :4
+1 2 3 4 17 18 19 20 
+  5 6 7 14 15 16 
+    8 9 12 13 
+      10 11
